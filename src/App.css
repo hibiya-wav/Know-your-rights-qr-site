@@ -1,0 +1,74 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0;
+}
+
+.social-icons,
+#main_title,
+.sub-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#directions {
+    gap: 20px;
+    list-style: none;
+    padding: 25px;
+}
+
+.uhhh {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1 {
+    font-family: "Bebas Neue", monospace, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+}
+
+a {
+    color:#000000;
+    all: unset;
+    font-family: monospace;
+}
+
+.uhhh li {
+    padding-top: 20px;
+}
+
+#center_links {
+    padding-bottom: 50px;
+}
+
+.resources {
+    list-style: none;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.social-icons a {
+    color: #000000;
+    transition: color 0.3s ease;
+    padding-bottom: 50px; 
+}
+
+.social-icons a.twitter:hover {
+    color: #1da1f2;
+}
+
+.social-icons a.instagram:hover {
+    color: #e1306c;
+}
+
+.social-icons a.github:hover {
+    color: #6e5494;
+}
