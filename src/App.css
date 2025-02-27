@@ -35,10 +35,16 @@ h1 {
     text-align: center;
 }
 
-a {
+a, h4{
     color:#000000;
     all: unset;
     font-family: monospace;
+}
+
+.letter {
+    text-align: center;
+    padding-bottom: 30px;
+    font-weight: bold;
 }
 
 .uhhh li {
