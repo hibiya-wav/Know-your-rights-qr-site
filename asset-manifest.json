@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Know-your-rights-qr-site/static/css/main.5e711c78.css",
-    "main.js": "/Know-your-rights-qr-site/static/js/main.3152ed42.js",
+    "main.css": "/Know-your-rights-qr-site/static/css/main.8367104a.css",
+    "main.js": "/Know-your-rights-qr-site/static/js/main.23da74d0.js",
     "static/js/453.adc34edb.chunk.js": "/Know-your-rights-qr-site/static/js/453.adc34edb.chunk.js",
     "index.html": "/Know-your-rights-qr-site/index.html",
-    "main.5e711c78.css.map": "/Know-your-rights-qr-site/static/css/main.5e711c78.css.map",
-    "main.3152ed42.js.map": "/Know-your-rights-qr-site/static/js/main.3152ed42.js.map",
+    "main.8367104a.css.map": "/Know-your-rights-qr-site/static/css/main.8367104a.css.map",
+    "main.23da74d0.js.map": "/Know-your-rights-qr-site/static/js/main.23da74d0.js.map",
     "453.adc34edb.chunk.js.map": "/Know-your-rights-qr-site/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e711c78.css",
-    "static/js/main.3152ed42.js"
+    "static/css/main.8367104a.css",
+    "static/js/main.23da74d0.js"
   ]
 }
